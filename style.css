@@ -1,0 +1,11 @@
+.rightimg  {
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+.video {
+	padding: 80px;
+}
